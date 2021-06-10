@@ -1,0 +1,19 @@
+django-ordered-model
+django-bootstrap3
+Sphinx
+django-debug-toolbar
+django-extensions
+mock
+coverage
+tox
+suds-jurko
+maxminddb-geolite2
+model_bakery
+django-concurrent-test-helper
+freezegun
+psycopg2
+
+
+# Not supported in py3
+#fabric
+#transifex-client
